@@ -1,0 +1,23 @@
+{
+  "name": "try-couchbase-sdk",
+  "version": "1.0.0",
+  "description": "Try to use couchbase sdk to manipulate the couchbase server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywchang/try-couchbase-sdk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ywchang/try-couchbase-sdk/issues"
+  },
+  "homepage": "https://github.com/ywchang/try-couchbase-sdk#readme",
+  "dependencies": {
+    "couchbase": "^2.4.5"
+  }
+}
